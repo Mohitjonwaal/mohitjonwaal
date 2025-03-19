@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Mohit, a data analytics enthusiast, and an Economics graduate. I thrive on solving complex problems and turning data into powerful business insights.<br><br>With a strong foundation in MySQL, Power BI, DAX, Tableau, Python, Advanced Excel, and Statistical Analysis, I specialize in transforming raw data into actionable insights that help businesses make smarter, data-driven decisions.<br><br>I’m always eager to learn and grow, and I believe in the power of data to unlock new opportunities and drive business success. <br>Let's connect and explore how we can take your business to the next level! 🚀
+Hi! I'm Mohit,I thrive on solving complex problems and turning data into powerful business insights.<br><br>With a strong foundation in MySQL, Power BI, DAX, Tableau, Python, Advanced Excel, and Statistical Analysis, I specialize in transforming raw data into actionable insights that help businesses make smarter, data-driven decisions.<br><br>I’m always eager to learn and grow, and I believe in the power of data to unlock new opportunities and drive business success. <br>Let's connect and explore how we can take your business to the next level! 🚀
 
 
 ## 🌐 Socials:
