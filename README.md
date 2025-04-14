@@ -17,7 +17,7 @@ Currently building cool projects and trying not to scrape data off my head.
 If you're into data, dashboards, or Python, we should definitely connect:
 
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohitJonwaal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonwaal-mohit/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-📊-brightgreen)](https://www.datascienceportfol.io/jonwaalmohit)
 
 
