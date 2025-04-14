@@ -1,3 +1,4 @@
+![GitHub Banner](https://github.com/Mohitjonwaal/mohitjonwaal/blob/main/linkedin%20background%20(7).png)
                                                                 
 # Hi, I'm Mohit 👋
 
